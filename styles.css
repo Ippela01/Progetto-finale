@@ -8,9 +8,11 @@ body {
     text-align: center;
 }
 .barraSuperiore{
+    
 }
 .ritorno a{
     color: #43ec0f;
+    transition: color 0.5s ease-out;
 }
 
 .ritorno a:hover{

@@ -36,7 +36,7 @@ let div = button.closest('.myArticle');
 button.addEventListener("click", function(){
     let p1 = document.getElementById("p1");
     console.log(p1.innerText);
-   p1.textContent = "ciao";
+   p1.textContent = "ciao"; // se clicco "action button" mi compare ciao su id=p1
    let img = document.getElementById("img");
    img.setAttribute("src", "https://miro.medium.com/v2/resize:fit:1400/1*Mb1Wxstw3ALBbGqNdJjWPg.jpeg");
    img.setAttribute("alt", "Logo del DOM");
