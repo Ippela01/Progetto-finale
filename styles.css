@@ -1,26 +1,25 @@
-
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f9f9f9;
- 
+
     color: whitesmoke;
     padding: 20px;
     text-align: center;
 }
-.barraSuperiore{
-    
-}
-.ritorno a{
+
+.barraSuperiore {}
+
+.ritorno a {
     color: #43ec0f;
     transition: color 0.5s ease-out;
 }
 
-.ritorno a:hover{
+.ritorno a:hover {
     color: #e8ec0f;
 }
 
 #mainContainer {
-    background-color: #ffffff;
+    background-color: #181818;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -60,17 +59,18 @@ button:hover {
     transform: scale(1.1);
     color: #333;
 }
-button::after{
+
+button::after {
     transform: scale(0.9);
 }
 
 .info {
-    background-color: #e7f5ff;
+    background-color: #21272b;
 }
 
 .highlight {
     color: #ccb71a;
-    background-color: #ffeeba;
+    background-color: #48390d;
     border-color: #ffbf00;
 }
 
@@ -86,7 +86,8 @@ h1 {
 }
 
 h3:hover {
-    color: #ccb71a;;
+    color: #ccb71a;
+    ;
 }
 
 .special button:hover {
@@ -94,22 +95,22 @@ h3:hover {
     color: red;
 }
 
-button#actionButton:hover{
+button#actionButton:hover {
     background: #ccb71a;
     color: #007bff;
 
 }
 
-.sezCommenti{
+.sezCommenti {
     background: url("") repeat;
 }
 
 .orari {
     padding: 110px;
-    text-align: left;    
+    text-align: left;
 }
 
-.contatti{
+.contatti {
     padding: 110px;
     text-align: left;
 }
@@ -118,6 +119,6 @@ button#actionButton:hover{
     color: #e8ec0f;
 }
 
-.sezioneFinale{
-    background-color: #e1e0e0;
+.sezioneFinale {
+    background-color: #2e2e32;
 }
