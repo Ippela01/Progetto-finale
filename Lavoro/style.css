@@ -1,0 +1,135 @@
+/* Page Style */
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,p{
+   color: #000;
+   padding-bottom: 30px; 
+}
+
+.big-text{
+    font-size: 70px;
+}
+.mid-text{
+    font-size: 40px;
+}
+.normal-text{
+    font-size: 20px;
+}
+.small-text{
+    font-size: 14px;
+}
+
+
+.intro-text{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button{
+    padding: 18px 28px;
+    background: lightskyblue;
+    color: #fff;
+    display: inline-block;
+    border-radius: 40px;
+}
+
+.button:hover {
+    background: #bbceeb;
+    transform: scale(1.1);
+    color: red;
+}
+.button:after{
+    transform: scale(1.5);
+}
+
+
+/* Header */
+.header{
+    border: 1px solid red;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    display: flex;
+    background: black;
+    border-bottom: 1rem groove ;
+}
+
+.logo{
+    border: 1px solid rgb(0, 34, 255)
+    position: center;
+}
+
+.image{
+    width: 250px;
+    display: inline-block;
+    position: center;
+}
+
+.menu{
+    border: 1px solid rgb(30, 255, 0);
+    width: 50%;
+    margin: auto ;
+    display: inline-block;
+    padding: 10px 200px;
+    
+}
+
+.menu li{
+    display:inline-block;    
+}
+
+.menu li a{
+    color: blue;
+    padding: 20px;
+    display: block;
+}
+
+.menu li a:hover {
+    background: #bbceeb;
+    transform: scale(1.1);
+    color: red;
+}
+
+/* Hero */
+.hero{
+    background: rgb(238, 238, 35);
+    height: 600px;
+    display: flex;;
+    width: 100%;
+    align-items: center;
+    padding-right: 20%;
+    padding-left: 45%;
+    padding-top: 25%;
+}
+
+.hero__content{
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}

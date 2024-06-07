@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<html style="background: rgb(0, 6, 28); --vh-static: 7.42px; --vh-dynamic: 7.42px; color-scheme: light;" lang="en" data-theme="light">
+    <>
+        <meta charset="utf-8"><meta name="viewport" content="initial-scale=1.0, width=device-width">
+        <title>Homepage | Duke of Tokyo: Private Karaoke Rooms</title>
+        <meta name="description" content="Enter the Duke of Tokyo and feel the vibe of the worlds biggest Karaoke city! We have a fully Japanese themed bar, where you can drink our cocktails and eat ...">
+        <meta property="og:title" content="Homepage | Duke of Tokyo: Private Karaoke Rooms">
+        <meta property="og:description" content="Enter the Duke of Tokyo and feel the vibe of the worlds biggest Karaoke city! We have a fully Japanese themed bar, where you can drink our cocktails and eat ...">
+        <meta property="og:image" content="https://assets.dukeoftokyo.com/images/transforms/_1200x630_crop_center-center_none/Share-img.png">
+        <meta name="twitter:image" content="https://assets.dukeoftokyo.com/images/transforms/_1024x512_crop_center-center_none/Share-img.png">
+        <link rel="preconnect" href="https://assets.dukeoftokyo.com"><link rel="canonical" href="https://dukeoftokyo.com/en">
+        <meta name="robots" content="index, follow"><meta name="next-head-count" content="11"><meta property="og:type" content="website">
+        <meta name="theme-color" content="#00061C"><link href="/apple-touch-icon.png"><link href="/apple-touch-icon-precomposed.png">
+        <link sizes="57x57" href="/apple-touch-icon-57x57.png">
+        <link sizes="114x114" href="/apple-touch-icon-114x114.png">
+        <link sizes="72x72" href="/apple-touch-icon-72x72.png">
+        <link sizes="144x144" href="/apple-touch-icon-144x144.png">
+        <link sizes="60x60" href="/apple-touch-icon-60x60.png">
+        <link sizes="120x120" href="/apple-touch-icon-120x120.png">
+        <link sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png">
+        <link sizes="76x76" href="/apple-touch-icon-76x76.png"><link sizes="152x152" href="/apple-touch-icon-152x152.png">
+        <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128">
+        <meta name="application-name" content="Duke of Tokyo">
+        <meta name="msapplication-TileColor" content="#00061C">
+        <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+        <meta name="msapplication-square70x70logo" content="/mstile-70x70.png">
+        <meta name="msapplication-square150x150logo" content="/mstile-150x150.png">
+        <meta name="msapplication-wide310x150logo" content="/mstile-310x150.png">
+        <meta name="msapplication-square310x310logo" content="/mstile-310x310.png">
+        <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+        <link rel="preconnect" href="https://use.typekit.net" crossorigin="">
+        <link rel="preload" href="/_next/static/css/ee0a7d7549e9c7e3.css" as="style">
+        <link rel="stylesheet" href="/_next/static/css/ee0a7d7549e9c7e3.css" data-n-g="">
+        <noscript data-n-css=""></noscript>
+        <script type="text/javascript" charset="UTF-8" async="" src="https://consent.cookiebot.com/Scripts/widgetIcon.min.js"></script>
+        <script type="text/javascript" charset="UTF-8" async="" src="https://consentcdn.cookiebot.com/consentconfig/f6e0a601-f222-4ecb-aa9f-6fd57522b919/state.js"></script>
+        <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=G-NX8F6G2M5T&amp;l=dataLayer&amp;cx=c"></script>
+        <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-NX8F6G2M5T&amp;l=dataLayer&amp;cx=c"></script>
+        <script type="text/javascript" async="" src="https://consent.cookiebot.com/uc.js?cbid=f6e0a601-f222-4ecb-aa9f-6fd57522b919&amp;implementation=gtm&amp;consentmode-dataredaction=dynamic" id="Cookiebot"></script>
+        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T7BJHBWS"></script>
+        <script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+        <script src="/_next/static/chunks/webpack-a16d4b977a4b212a.js" defer=""></script>
+        <script src="/_next/static/chunks/framework-6fc9f72b6a595568.js" defer=""></script>
+        <script src="/_next/static/chunks/main-e3fc4468ce317c93.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/_app-3db79a1335b06bfe.js" defer=""></script>
+        <script src="/_next/static/chunks/763-95d128a97746f8e1.js" defer=""></script>
+        <script src="/_next/static/chunks/865-6b3685cd5ab4f58f.js" defer=""></script>
+        <script src="/_next/static/chunks/615-4da96739165365c5.js" defer=""></script>
+        <script src="/_next/static/chunks/932-03a28e5de97a55c2.js" defer=""></script>
+        <script src="/_next/static/chunks/648-46cc14a2ede9bb13.js" defer=""></script>
+        <script src="/_next/static/chunks/536-81fb9a6d784a2c13.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/index-f2d8e40d9d03641f.js" defer=""></script>
+        <script src="/_next/static/XYGmEUHWNHieooy74zhqe/_buildManifest.js" defer=""></script>
+        <script src="/_next/static/XYGmEUHWNHieooy74zhqe/_ssgManifest.js" defer=""></script>
+        <style data-href="https://use.typekit.net/pkz6awt.css">
+            @import url("https://p.typekit.net/p.css?s=1&k=pkz6awt&ht=tk&f=22780.22782.22785.22787.22788.22789.44424.44425.44427.44428&a=86888893&app=typekit&e=css");
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/815687/000000000000000000014a00/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/815687/000000000000000000014a00/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/815687/000000000000000000014a00/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:700;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/4bf8c0/00000000000000007735a41d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") 
+                    format("woff2"),url("https://use.typekit.net/af/4bf8c0/00000000000000007735a41d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") 
+                    format("woff"),url("https://use.typekit.net/af/4bf8c0/00000000000000007735a41d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:300;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/f2772b/00000000000000007735a43d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/f2772b/00000000000000007735a43d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/f2772b/00000000000000007735a43d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:200;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/dc5249/00000000000000007735a451/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/dc5249/00000000000000007735a451/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/dc5249/00000000000000007735a451/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:500;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/8e5da6/00000000000000007735a447/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/8e5da6/00000000000000007735a447/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/8e5da6/00000000000000007735a447/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:italic;
+                    font-weight:500;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"signo";
+                    src:url("https://use.typekit.net/af/a010d8/000000000000000000014a09/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/a010d8/000000000000000000014a09/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/a010d8/000000000000000000014a09/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:400;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"bebas-neue-pro";
+                    src:url("https://use.typekit.net/af/c9f9f2/00000000000000007735c8ad/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/c9f9f2/00000000000000007735c8ad/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/c9f9f2/00000000000000007735c8ad/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:500;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"bebas-neue-pro";
+                    src:url("https://use.typekit.net/af/4d807b/00000000000000007735c8b0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/4d807b/00000000000000007735c8b0/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/4d807b/00000000000000007735c8b0/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:italic;
+                    font-weight:500;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"bebas-neue-pro";
+                    src:url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/d?    primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/2ba20d/00000000000000007735c8b6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:400;
+                    font-stretch:normal
+                }
+                @font-face{
+                    font-family:"bebas-neue-pro";
+                    src:url("https://use.typekit.net/af/6fab65/00000000000000007735c8b9/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") 
+                    format("woff2"),
+                    url("https://use.typekit.net/af/6fab65/00000000000000007735c8b9/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") 
+                    format("woff"),
+                    url("https://use.typekit.net/af/6fab65/00000000000000007735c8b9/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") 
+                    format("opentype");
+                    font-display:auto;
+                    font-style:normal;
+                    font-weight:600;
+                    font-stretch:normal
+                }
+                .tk-signo{font-family:"signo",sans-serif}
+                .tk-bebas-neue-pro{font-family:"bebas-neue-pro",sans-serif}
+        </style>
+        <style data-emotion="css-global" data-s="">:host,:root,[data-theme]{
+            --chakra-ring-inset:var(--chakra-empty,/*!*/ /*!*/);
+            --chakra-ring-offset-width:0px;
+            --chakra-ring-offset-color:#fff
+            --chakra-ring-color:rgba(66, 153, 225, 0.6);
+            --chakra-ring-offset-shadow:0 0 #0000;
+            --chakra-ring-shadow:0 0 #0000
+            --chakra-space-x-reverse:0;
+            --chakra-space-y-reverse:0;
+            --chakra-colors-transparent:transparent--chakra-colors-current:currentColor;
+            --chakra-colors-black:#000000;
+            --chakra-colors-white:#FFFFFF
+            --chakra-colors-whiteAlpha-50:rgba(255, 255, 255, 0.04);
+            --chakra-colors-whiteAlpha-100:rgba(255, 255, 255, 0.06)
+            --chakra-colors-whiteAlpha-200:rgba(255, 255, 255, 0.08);
+            --chakra-colors-whiteAlpha-300:rgba(255, 255, 255, 0.16)
+            --chakra-colors-whiteAlpha-400:rgba(255, 255, 255, 0.24);
+            --chakra-colors-whiteAlpha-500:rgba(255, 255, 255, 0.36
+            --chakra-colors-whiteAlpha-600:rgba(255, 255, 255, 0.48);
+            --chakra-colors-whiteAlpha-700:rgba(255, 255, 255, 0.64)
+            --chakra-colors-whiteAlpha-800:rgba(255, 255, 255, 0.80);
+            --chakra-colors-whiteAlpha-900:rgba(255, 255, 255, 0.92)
+            --chakra-colors-blackAlpha-50:rgba(0, 0, 0, 0.04);
+            --chakra-colors-blackAlpha-100:rgba(0, 0, 0, 0.06)
+            --chakra-colors-blackAlpha-200:rgba(0, 0, 0, 0.08);
+            --chakra-colors-blackAlpha-300:rgba(0, 0, 0, 0.16)
+            --chakra-colors-blackAlpha-400:rgba(0, 0, 0, 0.24);
+            --chakra-colors-blackAlpha-500:rgba(0, 0, 0, 0.36)
+            --chakra-colors-blackAlpha-600:rgba(0, 0, 0, 0.48);
+            --chakra-colors-blackAlpha-700:rgba(0, 0, 0, 0.64)
+            --chakra-colors-blackAlpha-800:rgba(0, 0, 0, 0.80);
+            --chakra-colors-blackAlpha-900:rgba(0, 0, 0, 0.92)
+            --chakra-colors-gray-50:#F7FAFC;
+            --chakra-colors-gray-100:#EDF2F7;
+            --chakra-colors-gray-200:#E2E8F0
+            --chakra-colors-gray-300:#CBD5E0;
+            --chakra-colors-gray-400:#A0AEC0;
+            --chakra-colors-gray-500:#718096
+            --chakra-colors-gray-600:#4A5568;
+            --chakra-colors-gray-700:#2D3748;
+            --chakra-colors-gray-800:#1A202C
+            --chakra-colors-gray-900:#171923;
+            --chakra-colors-red-50:#FFF5F5;
+            --chakra-colors-red-100:#FED7D7;
+            --chakra-colors-red-200:#FEB2B2
+            --chakra-colors-red-300:#F33E35;
+            --chakra-colors-red-400:#F56565;
+            --chakra-colors-red-500:#E1251B;
+            --chakra-colors-red-600:#C53030
+            --chakra-colors-red-700:#4F0400;
+            --chakra-colors-red-800:#822727;
+            --chakra-colors-red-900:#63171B
+            --chakra-colors-orange-50:#FFFAF0;
+            --chakra-colors-orange-100:#FEEBC8;
+            --chakra-colors-orange-200:#FBD38D
+            --chakra-colors-orange-300:#F6AD55;
+            --chakra-colors-orange-400:#ED8936;
+            --chakra-colors-orange-500:#DD6B20
+            --chakra-colors-orange-600:#C05621;
+            --chakra-colors-orange-700:#9C4221;
+            --chakra-colors-orange-800:#7B341E
+            --chakra-colors-orange-900:#652B19;
+            --chakra-colors-yellow-50:#FFFFF0;
+            --chakra-colors-yellow-100:#FEFCBF
+            --chakra-colors-yellow-200:#FAF089;
+            --chakra-colors-yellow-300:#F6E05E;
+            --chakra-colors-yellow-400:#ECC94B
+            --chakra-colors-yellow-500:#FFFA78;
+            --chakra-colors-yellow-600:#B7791F;
+            --chakra-colors-yellow-700:#975A16--chakra-colors-yellow-800:#744210;--chakra-colors-yellow-900:#5F370E;--chakra-colors-green-50:#F0FFF4--chakra-colors-green-100:#C6F6D5;--chakra-colors-green-200:#9AE6B4;--chakra-colors-green-300:#68D391--chakra-colors-green-400:#48BB78;--chakra-colors-green-500:#19D3C5;--chakra-colors-green-600:#2F855A--chakra-colors-green-700:#276749;--chakra-colors-green-800:#22543D;--chakra-colors-green-900:#1C4532--chakra-colors-teal-50:#E6FFFA;--chakra-colors-teal-100:#B2F5EA;--chakra-colors-teal-200:#81E6D9--chakra-colors-teal-300:#4FD1C5;--chakra-colors-teal-400:#38B2AC;--chakra-colors-teal-500:#319795--chakra-colors-teal-600:#2C7A7B;--chakra-colors-teal-700:#285E61;--chakra-colors-teal-800:#234E52--chakra-colors-teal-900:#1D4044;--chakra-colors-blue-50:#ebf8ff;--chakra-colors-blue-100:#bee3f8--chakra-colors-blue-200:#90cdf4;--chakra-colors-blue-300:#63b3ed;--chakra-colors-blue-400:#4299e1--chakra-colors-blue-500:#3182ce;--chakra-colors-blue-600:#2b6cb0;--chakra-colors-blue-700:#2c5282--chakra-colors-blue-800:#2a4365;--chakra-colors-blue-900:#1A365D;--chakra-colors-cyan-50:#EDFDFD--chakra-colors-cyan-100:#C4F1F9;--chakra-colors-cyan-200:#9DECF9;--chakra-colors-cyan-300:#76E4F7;--chakra-colors-cyan-400:#0BC5EA;--chakra-colors-cyan-500:#00B5D8;--chakra-colors-cyan-600:#00A3C4;--chakra-colors-cyan-700:#0987A0;--chakra-colors-cyan-800:#086F83;--chakra-colors-cyan-900:#065666;--chakra-colors-purple-50:#FAF5FF;--chakra-colors-purple-100:#E9D8FD;--chakra-colors-purple-200:#D6BCFA;--chakra-colors-purple-300:#B794F4;--chakra-colors-purple-400:#9F7AEA;--chakra-colors-purple-500:#805AD5;--chakra-colors-purple-600:#6B46C1;--chakra-colors-purple-700:#553C9A;--chakra-colors-purple-800:#44337A;--chakra-colors-purple-900:#322659;--chakra-colors-pink-50:#FFF5F7;--chakra-colors-pink-100:#FED7E2;--chakra-colors-pink-200:#FBB6CE;--chakra-colors-pink-300:#F687B3;--chakra-colors-pink-400:#ED64A6;--chakra-colors-pink-500:#D53F8C;--chakra-colors-pink-600:#B83280;--chakra-colors-pink-700:#97266D;--chakra-colors-pink-800:#702459;--chakra-colors-pink-900:#521B41;--chakra-colors-linkedin-50:#E8F4F9;--chakra-colors-linkedin-100:#CFEDFB;--chakra-colors-linkedin-200:#9BDAF3;--chakra-colors-linkedin-300:#68C7EC;--chakra-colors-linkedin-400:#34B3E4;--chakra-colors-linkedin-500:#00A0DC;--chakra-colors-linkedin-600:#008CC9;--chakra-colors-linkedin-700:#0077B5;--chakra-colors-linkedin-800:#005E93;--chakra-colors-linkedin-900:#004471;--chakra-colors-facebook-50:#E8F4F9;--chakra-colors-facebook-100:#D9DEE9;--chakra-colors-facebook-200:#B7C2DA;--chakra-colors-facebook-300:#6482C0;--chakra-colors-facebook-400:#4267B2;--chakra-colors-facebook-500:#385898;--chakra-colors-facebook-600:#314E89;--chakra-colors-facebook-700:#29487D;--chakra-colors-facebook-800:#223B67;--chakra-colors-facebook-900:#1E355B;--chakra-colors-messenger-50:#D0E6FF;--chakra-colors-messenger-100:#B9DAFF;--chakra-colors-messenger-200:#A2CDFF;--chakra-colors-messenger-300:#7AB8FF;--chakra-colors-messenger-400:#2E90FF;--chakra-colors-messenger-500:#0078FF;--chakra-colors-messenger-600:#0063D1;--chakra-colors-messenger-700:#0052AC;--chakra-colors-messenger-800:#003C7E;--chakra-colors-messenger-900:#002C5C;--chakra-colors-whatsapp-50:#dffeec;--chakra-colors-whatsapp-100:#b9f5d0;--chakra-colors-whatsapp-200:#90edb3;--chakra-colors-whatsapp-300:#65e495;--chakra-colors-whatsapp-400:#3cdd78;--chakra-colors-whatsapp-500:#22c35e;--chakra-colors-whatsapp-600:#179848;--chakra-colors-whatsapp-700:#0c6c33;--chakra-colors-whatsapp-800:#01421c;--chakra-colors-whatsapp-900:#001803;--chakra-colors-twitter-50:#E5F4FD;--chakra-colors-twitter-100:#C8E9FB;--chakra-colors-twitter-200:#A8DCFA;--chakra-colors-twitter-300:#83CDF7;--chakra-colors-twitter-400:#57BBF5;--chakra-colors-twitter-500:#1DA1F2;--chakra-colors-twitter-600:#1A94DA;--chakra-colors-twitter-700:#1681BF;--chakra-colors-twitter-800:#136B9E;--chakra-colors-twitter-900:#0D4D71;--chakra-colors-telegram-50:#E3F2F9;--chakra-colors-telegram-100:#C5E4F3;--chakra-colors-telegram-200:#A2D4EC;--chakra-colors-telegram-300:#7AC1E4;--chakra-colors-telegram-400:#47A9DA;--chakra-colors-telegram-500:#0088CC;--chakra-colors-telegram-600:#007AB8;--chakra-colors-telegram-700:#006BA1;--chakra-colors-telegram-800:#005885;--chakra-colors-telegram-900:#003F5E;--chakra-colors-granite-200:#555564;--chakra-colors-granite-300:#43434E;--chakra-colors-granite-500:#1D1D22;--chakra-colors-granite-600:#030304;--chakra-colors-granite-700:#000000;--chakra-colors-land-200:#FFFFFF;--chakra-colors-land-300:#F9F8F6;--chakra-colors-land-400:#E9E3DE;--chakra-colors-land-500:#D8CFC6;--chakra-colors-land-600:#C1B3A5;--chakra-colors-land-700:#AA9783;--chakra-colors-sea-200:#F1F4F7;--chakra-colors-sea-300:#D8DFE8;--chakra-colors-sea-400:#BECBD9;--chakra-colors-sea-500:#A4B6CA;--chakra-colors-sea-600:#819AB5;--chakra-colors-sea-700:#5D7DA0;--chakra-colors-darkGreen-500:#007E8F;--chakra-colors-darkGrey-500:#414141;--chakra-colors-hotPink-500:#F632CC;--chakra-colors-offWhite-400:#F9F6F0;--chakra-colors-offWhite-500:#F4F2EB;--chakra-colors-gradients-black:linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);--chakra-colors-gradients-darkPurple-500:linear-gradient(252.5deg, #280024 0%, #00061C 100%);--chakra-colors-gradients-darkPurple-700:linear-gradient(252.44deg, #27002B 0%, #000818 100%);--chakra-colors-gradients-red-500:linear-gradient(200.86deg, #FF0D00 0%, #D90C01 100%);--chakra-colors-gradients-lightBlueMobile:linear-gradient(16deg, #6FEBC6 22.5%, #BFC8EB 77.5%);--chakra-colors-gradients-lightBlueDesktop:linear-gradient(72.5deg, #6FEBC6 0%, #BFC8EB 100%);--chakra-borders-none:0;--chakra-borders-1px:1px solid;--chakra-borders-2px:2px solid;--chakra-borders-4px:4px solid;--chakra-borders-8px:8px solid;--chakra-fonts-heading:"signo",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--chakra-fonts-body:"signo",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--chakra-fonts-mono:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--chakra-fonts-signo:"signo",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--chakra-fonts-bebas:"bebas-neue-pro",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--chakra-fontSizes-3xs:0.45rem;--chakra-fontSizes-2xs:0.625rem;--chakra-fontSizes-xs:0.75rem;--chakra-fontSizes-sm:0.875rem;--chakra-fontSizes-md:1rem;--chakra-fontSizes-lg:1.125rem;--chakra-fontSizes-xl:1.25rem;--chakra-fontSizes-2xl:1.5rem;--chakra-fontSizes-3xl:1.875rem;--chakra-fontSizes-4xl:2.25rem;--chakra-fontSizes-5xl:3rem;--chakra-fontSizes-6xl:3.75rem;--chakra-fontSizes-7xl:4.5rem;--chakra-fontSizes-8xl:6rem;--chakra-fontSizes-9xl:8rem;--chakra-fontSizes-fontsize-10:0.625rem;--chakra-fontSizes-fontsize-11:0.6875rem;--chakra-fontSizes-fontsize-12:0.75rem;--chakra-fontSizes-fontsize-14:0.875rem;--chakra-fontSizes-fontsize-16:1rem;--chakra-fontSizes-fontsize-18:1.125rem;--chakra-fontSizes-fontsize-20:1.25rem;--chakra-fontSizes-fontsize-22:1.375rem;--chakra-fontSizes-fontsize-24:1.5rem;--chakra-fontSizes-fontsize-28:1.75rem;--chakra-fontSizes-fontsize-30:1.875rem;--chakra-fontSizes-fontsize-32:2rem;--chakra-fontSizes-fontsize-34:2.125rem;--chakra-fontSizes-fontsize-36:2.25rem;--chakra-fontSizes-fontsize-38:2.375rem;--chakra-fontSizes-fontsize-40:2.5rem;--chakra-fontSizes-fontsize-44:2.75rem;--chakra-fontSizes-fontsize-46:2.875rem;--chakra-fontSizes-fontsize-48:3rem;--chakra-fontSizes-fontsize-52:3.25rem;--chakra-fontSizes-fontsize-56:3.5rem;--chakra-fontSizes-fontsize-60:3.75rem;--chakra-fontSizes-fontsize-64:4rem;--chakra-fontSizes-fontsize-66:4.125rem;--chakra-fontSizes-fontsize-100:6.25rem;--chakra-fontSizes-fontsize-130:8.125rem;--chakra-fontSizes-fontsize-234:14.625rem;--chakra-fontWeights-hairline:100;--chakra-fontWeights-thin:200;--chakra-fontWeights-light:300;--chakra-fontWeights-normal:400;--chakra-fontWeights-medium:500;--chakra-fontWeights-semibold:600;--chakra-fontWeights-bold:700;--chakra-fontWeights-extrabold:800;--chakra-fontWeights-black:900;--chakra-letterSpacings-tighter:-0.03em;--chakra-letterSpacings-tight:-0.01em;--chakra-letterSpacings-normal:0;--chakra-letterSpacings-wide:0.02em;--chakra-letterSpacings-wider:0.04em;--chakra-letterSpacings-widest:0.05em;--chakra-letterSpacings-sm:0.01em;--chakra-letterSpacings-extreme:0.06em;--chakra-letterSpacings-extremest:0.1em;--chakra-lineHeights-3:.75rem;--chakra-lineHeights-4:1rem;--chakra-lineHeights-5:1.25rem;--chakra-lineHeights-6:1.5rem;--chakra-lineHeights-7:1.75rem;--chakra-lineHeights-8:2rem;--chakra-lineHeights-9:2.25rem;--chakra-lineHeights-10:2.5rem;--chakra-lineHeights-normal:normal;--chakra-lineHeights-none:1;--chakra-lineHeights-shorter:1.25;--chakra-lineHeights-short:1.375;--chakra-lineHeights-base:1;--chakra-lineHeights-tall:1.625;--chakra-lineHeights-taller:2;--chakra-lineHeights-3xs:75%;--chakra-lineHeights-xxs:80%;--chakra-lineHeights-xs:85%;--chakra-lineHeights-sm:90%;--chakra-lineHeights-md:120%;--chakra-lineHeights-lg:140%;--chakra-lineHeights-xl:150%;--chakra-lineHeights-xxl:220%;--chakra-lineHeights-3xl:250%;--chakra-radii-none:0;--chakra-radii-sm:0.125rem;--chakra-radii-base:0.25rem;--chakra-radii-md:0.375rem;--chakra-radii-lg:0.5rem;--chakra-radii-xl:0.75rem;--chakra-radii-2xl:1rem;--chakra-radii-3xl:1.5rem;--chakra-radii-full:9999px;--chakra-space-1:0.25rem;--chakra-space-2:0.5rem;--chakra-space-3:0.75rem;--chakra-space-4:1rem;--chakra-space-5:1.25rem;--chakra-space-6:1.5rem;--chakra-space-7:1.75rem;--chakra-space-8:2rem;--chakra-space-9:2.25rem;--chakra-space-10:2.5rem;--chakra-space-12:3rem;--chakra-space-14:3.5rem;--chakra-space-16:4rem;--chakra-space-20:5rem;--chakra-space-24:6rem;--chakra-space-28:7rem;--chakra-space-32:8rem;--chakra-space-36:9rem;--chakra-space-40:10rem;--chakra-space-44:11rem;--chakra-space-48:12rem;--chakra-space-52:13rem;--chakra-space-56:14rem;--chakra-space-60:15rem;--chakra-space-64:16rem;--chakra-space-72:18rem;--chakra-space-80:20rem;--chakra-space-96:24rem;--chakra-space-px:1px;--chakra-space-0-5:0.125rem;--chakra-space-1-5:0.375rem;--chakra-space-2-5:0.625rem;--chakra-space-3-5:0.875rem;--chakra-space-space-2:0.125rem;--chakra-space-space-4:0.25rem;--chakra-space-space-6:0.375rem;--chakra-space-space-8:0.5rem;--chakra-space-space-10:0.625rem;--chakra-space-space-12:0.75rem;--chakra-space-space-14:0.875rem;--chakra-space-space-16:1rem;--chakra-space-space-18:1.125rem;--chakra-space-space-20:1.25rem;--chakra-space-space-24:1.5rem;--chakra-space-space-28:1.75rem;--chakra-space-space-32:2rem;--chakra-space-space-36:2.25rem;--chakra-space-space-40:2.5rem;--chakra-space-space-48:3rem;--chakra-space-space-64:4rem;--chakra-space-space-80:5rem;--chakra-space-space-88:5.5rem;--chakra-space-space-104:6.5rem;--chakra-space-space-120:7.5rem;--chakra-space-space-180:11.25rem;--chakra-space-gutter:1.5rem;--chakra-space-padding:1rem;--chakra-space--padding:-1rem;--chakra-shadows-xs:0 0 0 1px rgba(0, 0, 0, 0.05);--chakra-shadows-sm:0 1px 2px 0 rgba(0, 0, 0, 0.05);--chakra-shadows-base:0 1px 3px 0 rgba(0, 0, 0, 0.1),0 1px 2px 0 rgba(0, 0, 0, 0.06);--chakra-shadows-md:0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);--chakra-shadows-lg:0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05);--chakra-shadows-xl:0 20px 25px -5px rgba(0, 0, 0, 0.1),0 10px 10px -5px rgba(0, 0, 0, 0.04);--chakra-shadows-2xl:0 25px 50px -12px rgba(0, 0, 0, 0.25);--chakra-shadows-outline:0 0 0 3px rgba(66, 153, 225, 0.6);--chakra-shadows-inner:inset 0 2px 4px 0 rgba(0,0,0,0.06);--chakra-shadows-none:none;--chakra-shadows-dark-lg:rgba(0, 0, 0, 0.1) 0px 0px 0px 1px,rgba(0, 0, 0, 0.2) 0px 5px 10px,rgba(0, 0, 0, 0.4) 0px 15px 40px;--chakra-shadows-red-md:0.75rem 0.75rem 7.5rem #E1251B;--chakra-shadows-red-lg:0.75rem 0.75rem 8.75rem #E1251B;--chakra-shadows-red-xl:0.75rem 0.75rem 15.625rem #E1251B;--chakra-shadows-green-sm:0.75rem 0.75rem 7.5rem #19D3C5;--chakra-shadows-green-sm2:0.125rem 0.125rem 3.75rem #19D3C5;--chakra-shadows-green-md:0.25rem 0.25rem 5rem #19D3C5;--chakra-shadows-yellow-sm:0.125rem 0.125rem 3.75rem #F9F3A4;--chakra-shadows-yellow-md:0.25rem 0.25rem 5rem #F9F3A4;--chakra-sizes-1:0.25rem;--chakra-sizes-2:0.5rem;--chakra-sizes-3:0.75rem;--chakra-sizes-4:1rem;--chakra-sizes-5:1.25rem;--chakra-sizes-6:1.5rem;--chakra-sizes-7:1.75rem;--chakra-sizes-8:2rem;--chakra-sizes-9:2.25rem;--chakra-sizes-10:2.5rem;--chakra-sizes-12:3rem;--chakra-sizes-14:3.5rem;--chakra-sizes-16:4rem;--chakra-sizes-20:5rem;--chakra-sizes-24:6rem;--chakra-sizes-28:7rem;--chakra-sizes-32:8rem;--chakra-sizes-36:9rem;--chakra-sizes-40:10rem;--chakra-sizes-44:11rem;--chakra-sizes-48:12rem;--chakra-sizes-52:13rem;--chakra-sizes-56:14rem;--chakra-sizes-60:15rem;--chakra-sizes-64:16rem;--chakra-sizes-72:18rem;--chakra-sizes-80:20rem;--chakra-sizes-96:24rem;--chakra-sizes-px:1px;--chakra-sizes-0-5:0.125rem;--chakra-sizes-1-5:0.375rem;--chakra-sizes-2-5:0.625rem;--chakra-sizes-3-5:0.875rem;--chakra-sizes-max:max-content;--chakra-sizes-min:min-content;--chakra-sizes-full:100%;--chakra-sizes-3xs:14rem;--chakra-sizes-2xs:16rem;--chakra-sizes-xs:20rem;--chakra-sizes-sm:24rem;--chakra-sizes-md:28rem;--chakra-sizes-lg:32rem;--chakra-sizes-xl:36rem;--chakra-sizes-2xl:42rem;--chakra-sizes-3xl:48rem;--chakra-sizes-4xl:56rem;--chakra-sizes-5xl:64rem;--chakra-sizes-6xl:72rem;--chakra-sizes-7xl:80rem;--chakra-sizes-8xl:90rem;--chakra-sizes-prose:60ch;--chakra-sizes-container-sm:640px;--chakra-sizes-container-md:768px;--chakra-sizes-container-lg:1024px;--chakra-sizes-container-xl:1280px;--chakra-zIndices-hide:-1;--chakra-zIndices-auto:auto;--chakra-zIndices-base:0;--chakra-zIndices-docked:10;--chakra-zIndices-dropdown:1000;--chakra-zIndices-sticky:1100;--chakra-zIndices-banner:1200;--chakra-zIndices-overlay:1300;--chakra-zIndices-modal:1400;--chakra-zIndices-popover:1500;--chakra-zIndices-skipLink:1600;--chakra-zIndices-toast:1700;--chakra-zIndices-tooltip:1800;--chakra-transition-property-common:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform;--chakra-transition-property-colors:background-color,border-color,color,fill,stroke;--chakra-transition-property-dimensions:width,height;--chakra-transition-property-position:left,right,top,bottom;--chakra-transition-property-background:background-color,background-image,background-position;--chakra-transition-easing-ease-in:cubic-bezier(0.4, 0, 1, 1);--chakra-transition-easing-ease-out:cubic-bezier(0, 0, 0.2, 1);--chakra-transition-easing-ease-in-out:cubic-bezier(0.4, 0, 0.2, 1);--chakra-transition-easing-ease-quint:cubic-bezier(0.83, 0, 0.17, 1);--chakra-transition-duration-ultra-fast:50ms;--chakra-transition-duration-faster:100ms;--chakra-transition-duration-fast:150ms;--chakra-transition-duration-normal:200ms;--chakra-transition-duration-slow:300ms;--chakra-transition-duration-slower:400ms;--chakra-transition-duration-ultra-slow:500ms;--chakra-blur-none:0;--chakra-blur-sm:4px;--chakra-blur-base:8px;--chakra-blur-md:12px;--chakra-blur-lg:16px;--chakra-blur-xl:24px;--chakra-blur-2xl:40px;--chakra-blur-3xl:64px;}.chakra-ui-light :host:not([data-theme]),.chakra-ui-light :root:not([data-theme]),.chakra-ui-light [data-theme]:not([data-theme]),[data-theme=light] :host:not([data-theme]),[data-theme=light] :root:not([data-theme]),[data-theme=light] [data-theme]:not([data-theme]),:host[data-theme=light],:root[data-theme=light],[data-theme][data-theme=light]{--chakra-colors-chakra-body-text:var(--chakra-colors-gray-800);--chakra-colors-chakra-body-bg:var(--chakra-colors-white);--chakra-colors-chakra-border-color:var(--chakra-colors-gray-200);--chakra-colors-chakra-placeholder-color:var(--chakra-colors-gray-500);}.chakra-ui-dark :host:not([data-theme]),.chakra-ui-dark :root:not([data-theme]),.chakra-ui-dark [data-theme]:not([data-theme]),[data-theme=dark] :host:not([data-theme]),[data-theme=dark] :root:not([data-theme]),[data-theme=dark] [data-theme]:not([data-theme]),:host[data-theme=dark],:root[data-theme=dark],[data-theme][data-theme=dark]{--chakra-colors-chakra-body-text:var(--chakra-colors-whiteAlpha-900);--chakra-colors-chakra-body-bg:var(--chakra-colors-gray-800);--chakra-colors-chakra-border-color:var(--chakra-colors-whiteAlpha-300);--chakra-colors-chakra-placeholder-color:var(--chakra-colors-whiteAlpha-400);}
+        </style>
+        <style data-emotion="css-global" data-s="">
+            html{
+                line-height:1.5;-webkit-text-size-adjust:100%;font-family:system-ui,sans-serif;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;-moz-osx-font-smoothing:grayscale;touch-action:manipulation;}body{position:relative;min-height:100%;font-feature-settings:'kern';}*,*::before,*::after{border-width:0;border-style:solid;box-sizing:border-box;
+            }
+            main{display:block;}
+            hr{border-top-width:1px;box-sizing:content-box;height:0;overflow:visible;}
+            pre,code,kbd,samp{font-family:SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:1em;}
+            a{background-color:transparent;color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit;}
+            abbr[title]{
+                border-bottom:none;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;
+            }
+            b,strong{font-weight:bold;}
+            small{font-size:80%;}
+            sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sub{bottom:-0.25em;}
+            sup{top:-0.5em;}
+            img{border-style:none;}
+            button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
+            button,input{overflow:visible;}button,select{text-transform:none;}
+            button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{
+                border-style:none;padding:0;
+            }
+            fieldset{padding:0.35em 0.75em 0.625em;}
+            legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}
+            progress{vertical-align:baseline;}textarea{overflow:auto;}
+            [type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}
+            [type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{-webkit-appearance:none!important;}
+            input[type="number"]{-moz-appearance:textfield;}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}
+            [type="search"]::-webkit-search-decoration{-webkit-appearance:none!important;}
+            ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}
+            details{display:block;}
+            summary{display:-webkit-box;display:-webkit-list-item;display:-ms-list-itembox;display:list-item;}
+            template{display:none;}
+            [hidden]{display:none!important;}
+            body,blockquote,dl,dd,h1,h2,h3,h4,h5,h6,hr,figure,p,pre{margin:0;}
+            button{background:transparent;padding:0;}
+            fieldset{margin:0;padding:0;}
+            ol,ul{margin:0;padding:0;}
+            textarea{resize:vertical;}
+            button,[role="button"]{cursor:pointer;}
+            button::-moz-focus-inner{border:0!important;}
+            table{border-collapse:collapse;}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
+            button,input,optgroup,select,textarea{padding:0;line-height:inherit;color:inherit;}
+            img,svg,video,canvas,audio,iframe,embed,object{display:block;}
+            img,video{max-width:100%;height:auto;}
+            [data-js-focus-visible] :focus:not([data-focus-visible-added]):not([data-focus-visible-disabled]){outline:none;box-shadow:none;}select::-ms-expand{display:none;}
+            :root{--chakra-vh:100vh;}
+            @supports (height: -webkit-fill-available){:root{--chakra-vh:-webkit-fill-available;}}@supports (height: -moz-fill-available){:root{--chakra-vh:-moz-fill-available;}}@supports (height: 100dvh){:root{--chakra-vh:100dvh;}}</style><style data-emotion="css-global" data-s="">body{font-family:var(--chakra-fonts-body);color:var(--chakra-colors-offWhite-500);background:var(--chakra-colors-chakra-body-bg);transition-property:background-color;transition-duration:var(--chakra-transition-duration-normal);line-height:1.5;font-weight:var(--chakra-fontWeights-normal);font-size:var(--chakra-fontSizes-fontsize-14);}@media screen and (min-width: 1025px){body{font-size:var(--chakra-fontSizes-fontsize-16);}}*::-webkit-input-placeholder{color:var(--chakra-colors-chakra-placeholder-color);}*::-moz-placeholder{color:var(--chakra-colors-chakra-placeholder-color);}*:-ms-input-placeholder{color:var(--chakra-colors-chakra-placeholder-color);}*::placeholder{color:var(--chakra-colors-chakra-placeholder-color);}*,*::before,::after{border-color:var(--chakra-colors-chakra-border-color);word-wrap:break-word;}</style><style data-emotion="css pbniyj" data-s="">.css-pbniyj{background:var(--chakra-colors-gradients-darkPurple-500);}</style><style data-emotion="css 70qevu" data-s="">.css-70qevu{background-image:url(/images/noise.png);}
+        </style>
+        <style data-emotion="css odu5vm" data-s="">
+            .css-odu5vm{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:-webkit-sticky;position:sticky;z-index:var(--chakra-zIndices-banner);top:0px;left:0px;width:var(--chakra-sizes-full);padding-top:0px;text-transform:uppercase;pointer-events:auto;color:var(--chakra-colors-red-500);}@media screen and (min-width: 1025px){.css-odu5vm{position:absolute;padding-top:var(--chakra-space-8);}}</style><style data-emotion="css i72bkf" data-s="">.css-i72bkf{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:absolute;white-space:nowrap;vertical-align:middle;outline:2px solid transparent;outline-offset:2px;line-height:1.2;border-radius:var(--chakra-radii-md);font-weight:var(--chakra-fontWeights-semibold);transition-property:all;transition-duration:0.5s;height:auto;min-width:var(--chakra-sizes-10);font-size:var(--chakra-fontSizes-md);-webkit-padding-start:var(--chakra-space-6);padding-inline-start:var(--chakra-space-6);-webkit-padding-end:var(--chakra-space-6);padding-inline-end:var(--chakra-space-6);top:0px;right:0px;padding-top:var(--chakra-space-6);padding-bottom:var(--chakra-space-6);transition-timing-function:var(--chakra-transition-easing-ease-quint);}.css-i72bkf:focus-visible,.css-i72bkf[data-focus-visible]{box-shadow:var(--chakra-shadows-outline);}.css-i72bkf:disabled,.css-i72bkf[disabled],.css-i72bkf[aria-disabled=true],.css-i72bkf[data-disabled]{opacity:0.4;cursor:not-allowed;box-shadow:var(--chakra-shadows-none);}.css-i72bkf:hover,.css-i72bkf[data-hover]{color:var(--chakra-colors-offWhite-500);}.css-i72bkf[data-loading],.css-i72bkf[aria-busy=true],.css-i72bkf[data-loading]:disabled,.css-i72bkf[aria-busy=true]:disabled,.css-i72bkf[data-loading]:disabled:hover,.css-i72bkf[aria-busy=true]:disabled:hover{opacity:1;cursor:progress;}@media screen and (min-width: 1025px){.css-i72bkf{position:fixed;top:50%;padding-top:0px;padding-bottom:0px;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);}}</style><style data-emotion="css 1p861lu" data-s="">.css-1p861lu{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;height:var(--chakra-sizes-5);}@media screen and (min-width: 1025px){.css-1p861lu{height:unset;}}</style><style data-emotion="css 3p98vq" data-s="">.css-3p98vq{width:var(--chakra-sizes-5);height:auto;display:inline-block;line-height:1em;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;color:currentColor;vertical-align:middle;fill:currentColor;}@media screen and (min-width: 1025px){.css-3p98vq{width:var(--chakra-sizes-4);}}</style><style data-emotion="css 1slegy3" data-s="">.css-1slegy3{display:none;margin-top:var(--chakra-space-3);font-weight:var(--chakra-fontWeights-bold);line-height:0.625rem;letter-spacing:var(--chakra-letterSpacings-extremest);text-transform:uppercase;-webkit-text-orientation:upright;-moz-text-orientation:upright;-ms-text-orientation:upright;text-orientation:upright;-webkit-writing-mode:vertical-rl;-ms-writing-mode:tb-rl;writing-mode:vertical-rl;}@media screen and (min-width: 1025px){.css-1slegy3{display:block;}}</style><style data-emotion="css 11gzb6g" data-s="">.css-11gzb6g{height:var(--vh100-dynamic);color:var(--chakra-colors-offWhite-500);}</style><style data-emotion="css 14ybrve" data-s="">.css-14ybrve{width:87%;height:auto;display:inline-block;line-height:1em;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;color:currentColor;vertical-align:middle;fill:none;position:fixed;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);-webkit-transition:-webkit-transform 1s;transition:transform 1s;pointer-events:none;}@media screen and (min-width: 641px){.css-14ybrve{width:75%;}}@media screen and (min-width: 1025px){.css-14ybrve{width:36.5%;}}
+        </style>
+        <style data-emotion="css 147lge6" data-s="">
+            .css-147lge6{overflow-y:hidden;width:var(--chakra-sizes-full);height:var(--chakra-sizes-full);-webkit-padding-start:var(--chakra-space-4);padding-inline-start:var(--chakra-space-4);-webkit-padding-end:var(--chakra-space-4);padding-inline-end:var(--chakra-space-4);}@media screen and (min-width: 641px){.css-147lge6{-webkit-padding-start:var(--chakra-space-8);padding-inline-start:var(--chakra-space-8);-webkit-padding-end:var(--chakra-space-8);padding-inline-end:var(--chakra-space-8);}}@media screen and (min-width: 1025px){.css-147lge6{-webkit-padding-start:var(--chakra-space-24);padding-inline-start:var(--chakra-space-24);-webkit-padding-end:var(--chakra-space-24);padding-inline-end:var(--chakra-space-24);}}@media screen and (min-width: 1281px){.css-147lge6{-webkit-padding-start:var(--chakra-space-32);padding-inline-start:var(--chakra-space-32);-webkit-padding-end:var(--chakra-space-32);padding-inline-end:var(--chakra-space-32);}}</style><style data-emotion="css heqp5k" data-s="">.css-heqp5k{display:grid;grid-column-gap:var(--chakra-space-10);grid-auto-columns:1fr;grid-auto-flow:column;grid-template-columns:1fr 1.6fr;margin-right:var(--chakra-space-4);}@media screen and (min-width: 480px){.css-heqp5k{grid-column-gap:var(--chakra-space-16);}}@media screen and (min-width: 641px){.css-heqp5k{grid-template-columns:1fr 1.6fr 1fr;margin-right:var(--chakra-space-2);}}@media screen and (min-width: 1025px){.css-heqp5k{grid-column-gap:var(--chakra-space-20);}}@media screen and (min-width: 1281px){.css-heqp5k{grid-template-columns:1fr 1.6fr 1fr 1.6fr;margin-right:var(--chakra-space-4);}}</style><style data-emotion="css 1jdi3wo" data-s="">.css-1jdi3wo{position:fixed;top:0px;display:block;width:var(--chakra-sizes-full);height:20vh;background:var(--chakra-colors-gradients-black);pointer-events:none;}@media screen and (min-width: 1025px){.css-1jdi3wo{display:none;}}</style><style data-emotion="css 1tc3q8j" data-s="">.css-1tc3q8j{position:fixed;bottom:-1px;display:block;width:var(--chakra-sizes-full);height:20vh;background:var(--chakra-colors-gradients-black);-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);pointer-events:none;}@media screen and (min-width: 1025px){.css-1tc3q8j{display:none;}}</style><style data-emotion="css 1oqkywg" data-s="">.css-1oqkywg{font-family:var(--chakra-fonts-heading);font-weight:var(--chakra-fontWeights-bold);font-size:var(--chakra-fontSizes-fontsize-16);line-height:1.33;position:fixed;bottom:var(--chakra-space-8);left:50%;color:var(--chakra-colors-hotPink-500);letter-spacing:0.12em;text-align:center;text-transform:uppercase;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);white-space:nowrap;}@media screen and (min-width: 641px){.css-1oqkywg{line-height:1.2;}}@media screen and (min-width: 1025px){.css-1oqkywg{font-size:var(--chakra-fontSizes-fontsize-22);top:50%;bottom:0px;left:var(--chakra-space-6);-webkit-transform:translateY(-50%) scale(-1);-moz-transform:translateY(-50%) scale(-1);-ms-transform:translateY(-50%) scale(-1);transform:translateY(-50%) scale(-1);-webkit-writing-mode:vertical-rl;-ms-writing-mode:tb-rl;writing-mode:vertical-rl;}}</style><style data-emotion="css 1y14bnj" data-s="">.css-1y14bnj{position:fixed;bottom:var(--chakra-space-24);left:50%;width:-webkit-max-content;width:-moz-max-content;width:max-content;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}@media screen and (min-width: 1025px){.css-1y14bnj{bottom:var(--chakra-space-12);}}
+        </style>
+        <style data-emotion="css 1y2yffk" data-s="">
+            .css-1y2yffk{transition-property:var(--chakra-transition-property-common);transition-duration:var(--chakra-transition-duration-fast);transition-timing-function:var(--chakra-transition-easing-ease-out);cursor:pointer;-webkit-text-decoration:none;text-decoration:none;outline:2px solid transparent;outline-offset:2px;color:inherit;display:block;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;}.css-1y2yffk:hover,.css-1y2yffk[data-hover]{-webkit-text-decoration:none;text-decoration:none;}.css-1y2yffk:focus-visible,.css-1y2yffk[data-focus-visible]{box-shadow:var(--chakra-shadows-outline);}</style><style data-emotion="css 1j1gyum" data-s="">.css-1j1gyum{position:relative;display:block;font-weight:var(--chakra-fontWeights-bold);line-height:var(--chakra-lineHeights-base);text-transform:uppercase;border:3px solid;border-radius:0px;transition-duration:0.3s;transition-property:all;transition-timing-function:var(--chakra-transition-easing-ease-quint);-webkit-padding-start:var(--chakra-space-8);padding-inline-start:var(--chakra-space-8);-webkit-padding-end:var(--chakra-space-8);padding-inline-end:var(--chakra-space-8);padding-top:var(--chakra-space-4);padding-bottom:var(--chakra-space-4);font-size:var(--chakra-fontSizes-fontsize-30);background:var(--chakra-colors-gradients-darkPurple-500);}.css-1j1gyum::before{content:"";position:absolute;background-color:currentColor;-webkit-transition:all .3s;transition:all .3s;top:calc(100% + 3px);height:3px;width:calc(100% + 7px);left:-2px;-webkit-transform:skewX(45deg);-moz-transform:skewX(45deg);-ms-transform:skewX(45deg);transform:skewX(45deg);pointer-events:none;}.css-1j1gyum::after{content:"";position:absolute;background-color:currentColor;-webkit-transition:all .3s;transition:all .3s;top:-2px;left:calc(100% + 3px);width:3px;height:calc(100% + 7px);-webkit-transform:skewY(45deg);-moz-transform:skewY(45deg);-ms-transform:skewY(45deg);transform:skewY(45deg);pointer-events:none;}.css-1j1gyum:hover,.css-1j1gyum[data-hover]{-webkit-transform:translate(4px, 4px);-moz-transform:translate(4px, 4px);-ms-transform:translate(4px, 4px);transform:translate(4px, 4px);}.css-1j1gyum:hover::before,.css-1j1gyum[data-hover]::before{height:0px;width:calc(100% + 3px);}.css-1j1gyum:hover::after,.css-1j1gyum[data-hover]::after{width:0%;height:calc(100% + 5px);}</style><style data-emotion="css 1tb26or" data-s="">.css-1tb26or{width:87%;height:auto;display:inline-block;line-height:1em;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;color:currentColor;vertical-align:middle;fill:none;position:fixed;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);pointer-events:none;}@media screen and (min-width: 641px){.css-1tb26or{width:75%;}}@media screen and (min-width: 1025px){.css-1tb26or{width:36.5%;}}</style><style data-emotion="css" data-s="">
+        </style>
+         <style type="text/css" id="CookieConsentStateDisplayStyles">
+            .cookieconsent-optin-preferences,.cookieconsent-optin-statistics,.cookieconsent-optin-marketing,.cookieconsent-optin{display:none;}.cookieconsent-optout-preferences,.cookieconsent-optout-statistics,.cookieconsent-optout-marketing,.cookieconsent-optout{display:block;display:initial;}
+        </style>
+    </head>
+
+    <body class="chakra-ui-light" style="overflow: unset; height: unset; pointer-events: unset;">
+        <noscript>
+        <iframe title="tag-manager" src="https://www.googletagmanager.com/ns.html?id=GTM-T7BJHBWS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="__next">
+        <div class="css-pbniyj">
+        <div class="css-70qevu">
+            <header uri="__home__" class="css-odu5vm">
+                <button type="button" class="chakra-button css-i72bkf">
+                    <div class="css-1p861lu">
+                    <svg viewBox="0 0 22 19" focusable="false" class="chakra-icon css-3p98vq" xmlns="http://www.w3.org/2000/svg">
+                        <title>Menu</title>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.625 10.8549L1.375 10.8549L0 8.14063L22 8.14062L20.625 10.8549Z" fill="currentColor"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.625 2.71429L1.375 2.71429L0 0L22 -5.60519e-07L20.625 2.71429Z" fill="currentColor"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.625 19.0033L1.375 19.0033L-9.83832e-08 16.2891L22 16.2891L20.625 19.0033Z" fill="currentColor"></path>
+                    </svg>
+                    <p class="chakra-text css-1slegy3">Menu</p>
+                    </div>
+                </button>
+            </header>
+            <div class="css-11gzb6g">
+                <svg viewBox="0 0 240 36" focusable="false" class="chakra-icon css-14ybrve" xlmns="http://www.w3.org/2000/svg" aria-label="Homepage">
+                    <title>Duke of Tokyo Logo</title>
+                    <path d="M9.19825 34.9723C7.83974 35.3328 6.28311 35.7211 5.03781 35.9985L0 17.9707C1.2736 17.5547 2.94349 17.1109 4.30201 16.7504L6.50958 16.168C10.0757 15.225 12.2266 15.5856 13.8964 16.6395C15.6512 17.7489 16.9814 19.8013 17.6324 22.1865C18.3965 24.9323 18.1984 27.7335 17.1229 29.98C16.189 31.8937 14.4908 33.5855 11.3209 34.4453L9.19825 34.9723ZM13.2738 28.2049C13.7266 27.3452 13.6417 26.0971 13.2172 24.5162C12.7644 22.8799 12.0851 21.6318 11.0662 20.9939C10.0473 20.3837 8.74543 20.5501 7.35862 20.9106L7.27371 20.9384C6.87748 21.0493 6.50957 21.1326 6.05673 21.2435C6.28315 21.9369 6.42464 22.4638 6.65106 23.2681L8.06617 28.3713C8.32089 29.2589 8.49068 29.8413 8.6605 30.6456C9.05673 30.507 9.4813 30.3961 10.019 30.2574L10.1605 30.2019C11.519 29.8413 12.7643 29.2311 13.2738 28.2049Z" fill="currentColor"></path>
+                    <path d="M38.9439 20.7163C39.3685 22.63 39.3402 24.5437 38.1515 26.2356C37.076 27.7332 35.1798 28.9813 32.6043 29.536C30.1137 30.063 28.1325 29.7301 26.6608 28.7317C25.2173 27.7332 24.4815 26.2079 24.1136 24.4606L21.3965 12.3403L26.2645 11.2865L28.8118 22.63C29.0665 23.7117 29.491 24.405 30.0853 24.821C30.7646 25.2925 31.5853 25.2648 32.4627 25.0707C33.1986 24.9042 33.9627 24.6269 34.3023 23.989C34.5854 23.4621 34.5853 22.7132 34.3872 21.8257L31.7551 10.1215L36.3401 9.12305L38.9439 20.7163Z" fill="currentColor"></path>
+                    <path d="M46.6708 26.375L43.416 7.79264L48.3407 6.96054L49.8973 15.808H49.9538C50.3784 14.1439 50.8313 12.563 51.4256 10.6216L52.7558 6.21173L58.8974 5.18555L56.2653 11.2317C55.6709 12.5908 55.1049 13.8388 54.4822 15.1424C55.303 15.9744 56.3785 17.1393 57.4257 18.2765L62.3503 23.7125L56.0389 24.7664L52.7558 20.2179C51.4256 18.3873 50.8878 17.6108 50.0671 16.335H50.0105L51.6238 25.4876L46.6708 26.375Z" fill="currentColor"></path>
+                    <path d="M74.6908 22.134C72.2851 22.4391 70.1058 22.7165 66.9642 23.0216L64.5303 4.46685C67.1058 4.07856 70.0492 3.69026 72.37 3.41291L77.3229 2.80273L77.9455 7.62868L74.2663 8.10012C72.5964 8.322 70.7851 8.48845 69.9077 8.57166C70.0209 9.29277 70.1058 9.81976 70.219 10.6795L70.2756 11.151C70.9266 11.04 72.285 10.8459 73.7568 10.624L77.238 10.1248L77.6908 14.5901L74.3228 14.9507C72.9077 15.1171 71.4926 15.2558 70.8134 15.3112L70.8983 16.0324C71.0115 16.8922 71.0964 17.4468 71.153 18.1679C72.0021 18.0293 73.7568 17.7797 75.37 17.5855L79.3323 17.0863L79.8984 21.4684L74.6908 22.134Z" fill="currentColor"></path>
+                    <path d="M95.406 17.5287C94.0758 16.031 93.1983 13.7845 93.0568 11.0942C92.887 8.45934 93.4248 5.9354 94.7267 4.02169C96.0286 2.08024 98.1512 0.693526 101.349 0.499381C103.982 0.332972 106.048 1.08182 107.548 2.5795C109.019 4.04946 109.897 6.21277 110.067 9.06948C110.236 11.9539 109.614 14.3668 108.368 16.2528C107.066 18.1665 104.972 19.7475 101.802 19.9416C99.0569 20.108 96.8777 19.1928 95.406 17.5287ZM104.717 14.0895C105.114 13.3129 105.283 12.1203 105.17 10.4285C105.085 9.12492 104.859 7.40535 103.897 6.35142C103.217 5.60257 102.255 5.2698 100.982 5.353C99.9343 5.40847 98.9721 5.74129 98.406 6.65655C97.9532 7.40539 97.7834 8.54253 97.8683 10.1234C97.9815 11.9539 98.3777 13.4239 99.1418 14.3669C99.8211 15.2266 100.812 15.6149 102.085 15.5594C103.331 15.4485 104.236 15.0048 104.717 14.0895Z" fill="currentColor"></path>
+                    <path d="M116.237 18.9985L115.982 0.221843C118.586 0.110903 121.586 0.0831744 123.935 0.0554395L128.917 0L128.973 4.85362L125.379 4.90906C123.681 4.93679 121.841 4.90903 120.964 4.8813C120.992 5.60241 121.02 6.15716 121.02 7.01694V7.82128C121.671 7.79355 122.973 7.73805 124.473 7.71032L128.011 7.59935L127.926 12.0924H124.53C123.086 12.0924 121.784 12.0647 121.077 12.0647L121.162 18.9707L116.237 18.9985Z" fill="currentColor"></path>
+                    <path d="M142.304 0.224609L157.729 1.08439L157.446 5.93801L155.72 5.8548C154.305 5.7716 153.088 5.68838 152.21 5.57744L151.39 19.6391L146.408 19.3617L147.229 5.30016C146.352 5.30016 145.021 5.24466 143.663 5.18919L142.021 5.10599L142.304 0.224609Z" fill="currentColor"></path>
+                    <path d="M162.286 17.8875C161.239 16.1679 160.786 13.8382 161.098 11.1756C161.409 8.54083 162.371 6.15561 163.984 4.49151C165.626 2.79968 167.947 1.8012 171.117 2.13402C173.72 2.41137 175.617 3.49308 176.834 5.21265C178.022 6.90448 178.504 9.17872 178.192 12.0354C177.853 14.8921 176.834 17.1663 175.249 18.8304C173.636 20.4945 171.286 21.7149 168.117 21.3543C165.456 21.077 163.447 19.8012 162.286 17.8875ZM172.079 16.0847C172.617 15.3913 172.985 14.2542 173.183 12.5346C173.324 11.2311 173.409 9.51155 172.617 8.31895C172.079 7.4869 171.202 6.98767 169.928 6.849C168.881 6.73806 167.862 6.8767 167.154 7.68102C166.56 8.34665 166.22 9.42835 166.022 11.0092C165.824 12.8398 165.966 14.3374 166.532 15.3913C167.069 16.3621 167.947 16.9168 169.22 17.0554C170.494 17.2219 171.456 16.889 172.079 16.0847Z" fill="currentColor"></path>
+                    <path d="M182.55 22.8789L185.918 4.32422L190.814 5.184L189.201 14.0315H189.257C190.248 12.617 191.21 11.2579 192.427 9.64929L195.201 5.93281L201.343 6.98675L196.786 11.8126C195.767 12.8943 194.805 13.8928 193.758 14.8912C194.239 15.9452 194.861 17.4151 195.427 18.8296L198.201 25.5969L191.89 24.4875L190.39 19.1347C189.795 16.9714 189.54 16.0561 189.201 14.5861H189.144L187.503 23.7387L182.55 22.8789Z" fill="currentColor"></path>
+                    <path d="M208.701 20.3307C208.305 18.8885 207.824 17.1134 207.427 15.6435L205.39 7.82227L211.22 9.20901L211.786 13.0364C211.956 14.2012 212.097 15.2829 212.211 16.3368H212.267C212.975 15.3938 213.541 14.6173 214.305 13.6189L216.682 10.5125L222.23 11.8438L216.682 17.8068C215.777 18.7775 214.446 20.1921 213.569 21.0796L211.673 28.7344L206.833 27.5696L208.701 20.3307Z" fill="currentColor"></path>
+                    <path d="M222.598 28.9302C221.89 27.0442 221.919 24.659 222.739 22.1074C223.56 19.5835 224.975 17.4202 226.872 16.0889C228.824 14.7299 231.287 14.1752 234.343 15.1181C236.834 15.8947 238.504 17.3092 239.353 19.223C240.202 21.1089 240.23 23.4387 239.353 26.1567C238.475 28.9025 237.004 30.9271 235.136 32.2584C233.24 33.6174 230.692 34.3385 227.636 33.4232C225.089 32.6467 223.39 31.0381 222.598 28.9302ZM232.589 28.9856C233.24 28.4032 233.834 27.3493 234.343 25.7129C234.74 24.4649 235.136 22.773 234.626 21.4695C234.258 20.5265 233.494 19.8886 232.277 19.528C231.258 19.2229 230.24 19.1675 229.39 19.8331C228.683 20.3878 228.117 21.3863 227.636 22.884C227.07 24.6313 226.928 26.1567 227.268 27.2938C227.607 28.3478 228.372 29.0411 229.589 29.4294C230.777 29.79 231.796 29.6513 232.589 28.9856Z" fill="currentColor"></path>
+                </svg>
+                
+                <div class="css-147lge6"><div class="css-heqp5k"><div class="css-11x3iy0">
+                    <div class="css-13fxeyi" style="opacity: 1; transform: translateY(36.208%) translateZ(0px);">
+                        <div class="css-kbycht">
+                            <svg viewBox="0 0 80.31 195.31" focusable="false" class="chakra-icon css-poo6fo" xmlns="http://www.w3.org/2000/svg">
+                                <title>Sing</title>
+                                <g>
+                                    <path d="M52.58,165.75c-0.88-0.49-1.23-0.59-1.93-0.76c-0.7-0.16-1.12,0.02-1.31,0.79c-0.74,2.89-1.68,6.99-2.34,10.9 c-0.42-3.09-0.87-6.82-1.02-8.46c-0.11-1.02-0.33-1.47-1.07-1.76c-0.87-0.4-1.73-0.65-2.56-0.83c-0.66-0.14-1.18,0.06-1.4,0.86 c-1.16,4.39-3.16,14.08-3.54,16.83c-0.12,0.88-0.02,1.31,0.53,1.67c0.56,0.39,1.36,0.64,2.02,0.78c0.67,0.17,0.91,0.03,1.01-0.67 c0.46-2.5,1.47-6.78,2.29-10.74c0.46,3.21,1.13,6.58,1.79,8.65c0.21,0.7,0.62,1.23,1.2,1.47c0.58,0.27,1.25,0.5,1.92,0.6 c0.66,0.14,1.14-0.15,1.24-0.84c0.94-4.84,2.59-12.54,3.66-16.87C53.27,166.63,53.26,166.13,52.58,165.75z" fill="currentColor"></path>
+                                    <path d="M57.36,159.11c1.19,0.13,2.35-0.21,3.35-1.04c1.55-1.27,2.97-3.56,3.93-6.51c0.28-0.83,0.27-1.3-0.12-2.02 c-0.22-0.36-0.5-0.8-0.81-1.18c-0.44-0.53-0.92-0.65-1.81-0.45c-0.95,0.2-2.69,0.64-3.73,1c-0.52,0.16-0.79,0.34-0.68,0.89 c0.32,1.72,1.12,2.44,2.7,2.22c-0.89,2.25-2.18,4.09-3.11,3.76c-1.12-0.41-0.95-4.23,0.09-7.33c1.22-3.65,3.2-7.01,4.16-6.77 c0.48,0.12,0.35,1.66,0.4,2.74c0.08,1.43,0.84,2.4,2.59,2.51c0.66,0.04,0.86-0.19,1-0.76c0.24-0.98,0.42-2.99,0.31-4.14 c-0.12-1.11-0.4-1.93-1.2-2.62c-0.83-0.71-2.27-1.2-3.46-1.26c-0.88-0.06-2.05,0.09-2.96,0.88c-4.36,3.76-6.95,12.57-5.4,16.94 c0.32,0.94,1.07,1.76,1.76,2.17C55.27,158.68,56.27,159.01,57.36,159.11z" fill="currentColor"></path>
+                                    <path d="M38,160.28c0.67,0.17,0.91,0.03,1.01-0.67c0.46-2.5,1.47-6.78,2.29-10.74c0.46,3.21,1.13,6.58,1.79,8.65 c0.21,0.7,0.62,1.23,1.2,1.47c0.58,0.27,1.26,0.5,1.92,0.6c0.66,0.14,1.14-0.15,1.24-0.84c0.94-4.84,2.59-12.54,3.66-16.87 c0.19-0.73,0.19-1.23-0.5-1.61c-0.88-0.49-1.23-0.59-1.93-0.76c-0.7-0.16-1.12,0.02-1.31,0.79c-0.74,2.89-1.68,6.99-2.34,10.9 c-0.42-3.09-0.87-6.82-1.02-8.46c-0.11-1.02-0.33-1.47-1.07-1.76c-0.87-0.4-1.73-0.65-2.56-0.83c-0.66-0.14-1.18,0.06-1.4,0.86 c-1.16,4.39-3.16,14.08-3.54,16.83c-0.12,0.88-0.02,1.31,0.53,1.67C36.54,159.9,37.34,160.15,38,160.28z" fill="currentColor"></path>
+                                    <path d="M36.14,167.32c-0.59-0.39-1.59-0.84-2.29-1.01c-0.7-0.17-1.09-0.01-1.31,0.75 c-1.07,3.98-2.99,13.42-3.47,17.01c-0.12,0.91,0.01,1.31,0.6,1.67c0.56,0.33,1.32,0.61,1.99,0.75c0.67,0.14,0.9-0.01,1.04-0.7 c0.92-4.62,2.86-13.06,3.99-17.02C36.88,168.04,36.8,167.77,36.14,167.32z" fill="currentColor"></path>
+                                    <path d="M24.03,167.07c-1.34-0.37-2.48,0.19-3.16,0.68c-1.77,1.32-3.51,3.79-4.23,5.87c-0.85,2.34-0.13,4.34,1.11,5.59 c1.79,1.76,5.16,3.47,4.32,4.28c-0.72,0.74-2.53,0.35-4.48-1.12c-0.69-0.51-2.04-0.53-2.96,0.04c-0.56,0.35-0.65,0.83,0.34,2.03 c1.93,2.35,3.99,3.22,6.03,3c3.13-0.3,4.45-2.59,5.03-3.97c1.24-2.93-2.88-4.21-4.89-6.48c-1.85-2.14,1.84-6.53,2.52-6.21 c0.39,0.16-0.36,2.58-0.52,3.72c-0.18,1.26,0.6,2.17,2.24,2.73c0.58,0.21,0.88,0.06,1.14-0.55c0.55-1.32,1.14-3.8,1.25-5.24 c0.03-0.84,0.04-1.91-0.9-2.8C26.22,167.99,25.05,167.36,24.03,167.07z" fill="currentColor"></path>
+                                    <path d="M29.7,161.01c0.67,0.14,0.9-0.01,1.04-0.7c0.92-4.62,2.86-13.06,3.99-17.01c0.19-0.73,0.11-1.01-0.55-1.45 c-0.59-0.39-1.59-0.84-2.29-1.01c-0.7-0.16-1.09-0.01-1.31,0.76c-1.07,3.98-2.99,13.42-3.47,17.01c-0.12,0.91,0.01,1.31,0.6,1.67 C28.27,160.59,29.04,160.88,29.7,161.01z" fill="currentColor"></path>
+                                    <path d="M66.38,164.91c-0.83-0.71-2.27-1.2-3.46-1.26c-0.88-0.06-2.05,0.09-2.96,0.88c-4.36,3.76-6.95,12.57-5.4,16.94 c0.32,0.94,1.07,1.76,1.76,2.17c0.91,0.52,1.9,0.85,3,0.95c1.19,0.13,2.35-0.21,3.35-1.04c1.55-1.27,2.97-3.56,3.93-6.51 c0.28-0.83,0.27-1.3-0.12-2.02c-0.22-0.36-0.5-0.8-0.81-1.18c-0.45-0.53-0.92-0.65-1.81-0.45c-0.95,0.2-2.69,0.64-3.73,1 c-0.52,0.16-0.79,0.34-0.68,0.89c0.32,1.72,1.12,2.44,2.7,2.22c-0.89,2.25-2.18,4.09-3.11,3.76c-1.12-0.41-0.95-4.23,0.09-7.33 c1.22-3.65,3.2-7.01,4.16-6.77c0.48,0.12,0.34,1.66,0.4,2.74c0.08,1.43,0.84,2.4,2.59,2.51c0.66,0.04,0.86-0.19,1-0.76 c0.24-0.98,0.42-2.99,0.31-4.14C67.46,166.41,67.18,165.59,66.38,164.91z" fill="currentColor"></path>
+                                    <path d="M41.7,34.15c5.67,0.43,5.21-4.48,5.21-4.48h-9.49C37.42,29.67,36.77,33.78,41.7,34.15z" fill="currentColor"></path>
+                                    <path d="M25.11,55.72c0.45,0.56,0.78,1.31,1.36,1.67c8.56,5.39,17.43,6.27,26.6,1.59c0.65-0.33,1.15-0.96,1.71-1.46 l-0.24-0.54C44.52,61.84,34.81,61.5,25.11,55.72z" fill="currentColor"></path>
+                                    <path d="M49.4,23.69c0.62,0,1.13-0.74,1.13-1.65c0-0.91-0.5-1.65-1.13-1.65c-0.62,0-1.13,0.74-1.13,1.65 C48.27,22.95,48.78,23.69,49.4,23.69z" fill="currentColor"></path>
+                                    <path d="M31.31,93.55c0.07,0.93,0.32,1.85,0.52,2.78c0.29-0.04,0.58-0.09,0.88-0.13c0.03-0.94,0.07-1.87,0.12-3.22 C32.18,93.21,31.3,93.41,31.31,93.55z" fill="currentColor"></path>
+                                    <path d="M33.13,22.27c0.71,0,1.28-0.84,1.28-1.87c0-1.03-0.57-1.87-1.28-1.87c-0.71,0-1.28,0.84-1.28,1.87 C31.85,21.43,32.42,22.27,33.13,22.27z" fill="currentColor"></path>
+                                    <path d="M19.05,161.95c3.13-0.3,4.45-2.59,5.03-3.97c1.24-2.93-2.88-4.21-4.89-6.48c-1.85-2.14,1.84-6.53,2.52-6.21 c0.39,0.16-0.36,2.59-0.53,3.72c-0.18,1.26,0.6,2.17,2.24,2.73c0.58,0.21,0.88,0.06,1.14-0.55c0.55-1.32,1.14-3.8,1.25-5.24 c0.03-0.84,0.04-1.9-0.9-2.8c-0.64-0.64-1.81-1.26-2.83-1.56c-1.34-0.36-2.48,0.19-3.16,0.68c-1.77,1.32-3.51,3.79-4.23,5.87 c-0.85,2.34-0.13,4.34,1.11,5.59c1.79,1.76,5.16,3.47,4.32,4.28c-0.72,0.74-2.53,0.35-4.48-1.12c-0.69-0.51-2.04-0.53-2.96,0.04 c-0.56,0.35-0.65,0.83,0.34,2.03C14.95,161.3,17.01,162.17,19.05,161.95z" fill="currentColor"></path>
+                                    <path d="M31.07,90.98c0.06,0.33,0.61,0.77,0.95,0.79c0.26,0.02,0.76-0.53,0.8-0.87c0.13-1.02,0.09-2.07,0.12-3.24 c-0.77-0.03-1.37-0.05-2.2-0.08C30.85,88.81,30.87,89.91,31.07,90.98z" fill="currentColor"></path>
+                                    <path d="M64.61,36.04c-0.94,1.02-1.54,2.18-2.48,2.6c-2.48,1.11-5.04,2.29-7.69,2.74 c-10.49,1.78-20.77,0.41-30.81-2.88c-1.45-0.47-2.81-1.3-4.09-2.15c-0.78-0.52-1.33-1.4-2.06-2.2c-0.99,1.35-0.49,2.85,0.73,3.65 c3.04,1.97,6.08,4.22,9.46,5.32c8.69,2.83,17.72,3.23,26.73,1.75c2.71-0.44,5.37-1.64,7.85-2.88c1.2-0.6,2.05-2.04,2.87-3.23 C65.87,37.67,65.62,36.61,64.61,36.04z" fill="currentColor"></path>
+                                    <path d="M66.12,32.11c-0.58-9.5-3.76-15.84-10.01-19.94c-4.39-2.88-9.1-4.34-14-4.34c-4.06,0-8.26,1.01-12.49,3 c-8.2,3.86-12.73,10.48-13.47,19.68c-0.02,0.26-0.25,0.76-0.63,1.18c-1.03,1.14-1.57,2.63-1.5,4.11c0.07,1.4,0.7,2.7,1.78,3.67 c1.52,1.37,2.06,3.15,2.68,5.22c0.06,0.2,0.12,0.39,0.18,0.59c0.44,1.44,0.97,2.84,1.48,4.2c0.49,1.29,0.95,2.52,1.35,3.77 l0.07,0.22c0.65,2.09,1.33,4.26,1.53,6.35c1.01,10.41,2,21.01,2.96,31.25c1.04,11.14,2.12,22.65,3.22,33.98 c0.13,1.31,0.69,2.49,1.19,3.53c0.25,0.51,0.48,1,0.65,1.47l0.02,0.05l0.03,0.1l0.73,0.91c0.04,0.02,0.07,0.05,0.11,0.07l0.02,0.01 l0.04,0.03l0.05,0.04l0.06,0.03c0.7,0.39,1.4,0.78,2.1,1.16l0.17,0.09l0.19,0.05c0.53,0.15,0.99,0.29,1.4,0.44l1.97,0.09 c0.3,0.01,0.59,0.02,0.88,0.02l0.1,0c5.07-0.03,8.37-2.89,9.03-7.87c0.76-5.65,1.51-11.31,2.27-16.96 c1.44-10.84,2.94-22.05,4.46-33.07c0.76-5.51,1.75-11.47,3.01-18.22c0.11-0.58,0.53-1.25,0.97-1.96c0.29-0.47,0.59-0.95,0.85-1.48 c0.51-1.02,1.01-2.06,1.49-3.07c0.74-1.54,1.51-3.14,2.3-4.68c0.28-0.54,0.72-1.08,1.2-1.66c0.09-0.11,0.18-0.22,0.27-0.33 c0.31-0.37,0.63-0.74,0.98-1.13c0.56-0.62,1.14-1.27,1.66-2c1.5-2.1,1.31-4.35-0.54-6.69C66.48,33.48,66.16,32.71,66.12,32.11z M66.05,39.72c-0.77,1.08-1.73,2.01-2.57,3.03c-0.6,0.73-1.24,1.46-1.67,2.29c-1.32,2.57-2.53,5.19-3.8,7.78 c-0.65,1.31-1.71,2.52-1.97,3.89c-1.14,6.08-2.18,12.18-3.02,18.3c-2.3,16.67-4.48,33.36-6.72,50.04 c-0.55,4.09-3.17,6.34-7.32,6.36c-0.03,0-0.06,0-0.09,0c-0.66,0-1.32-0.04-2.24-0.06c0,0.02-0.01,0.04-0.01,0.06 c-0.5-0.18-1.01-0.34-1.53-0.48c-0.7-0.38-1.39-0.76-2.08-1.15c-0.01-0.01-0.02-0.02-0.03-0.02c-0.06-0.04-0.12-0.07-0.18-0.11 c-0.02-0.06-0.04-0.12-0.06-0.18c-0.56-1.54-1.6-3.01-1.75-4.58c-2.11-21.74-4.08-43.49-6.17-65.23c-0.23-2.34-0.97-4.65-1.67-6.91 c-0.84-2.69-2.01-5.27-2.83-7.96c-0.74-2.42-1.31-4.76-3.35-6.6c-1.71-1.53-1.47-3.87-0.15-5.33c0.53-0.59,1.01-1.44,1.08-2.2 C18.55,22.17,22.72,16,30.36,12.4c3.92-1.85,7.86-2.83,11.75-2.83c4.45,0,8.83,1.29,13.05,4.06c6.56,4.3,8.78,11.07,9.23,18.59 c0.06,0.99,0.54,2.1,1.17,2.89C66.75,36.61,67.21,38.08,66.05,39.72z" fill="currentColor"></path>
+                                </g>
+                                <path d="M11.61,5.22L14.2,5.2l2.59-0.06l2.59-0.1c1.73-0.09,3.45-0.19,5.18-0.36C22.83,4.5,21.1,4.4,19.38,4.32 l-2.59-0.1L14.2,4.16l-2.59-0.02L9.02,4.16C7.3,4.18,5.57,4.22,3.85,4.29l-0.03,0C3.61,4.3,3.45,4.47,3.46,4.68 C3.48,5.17,3.5,5.65,3.53,6.14C3.56,6.63,3.58,7.12,3.61,7.6c0.06,0.97,0.14,2.95,0.24,3.92c0.1-0.97,0.17-2.95,0.24-3.92 c0.04-0.49,0.06-0.97,0.08-1.46C4.19,5.79,4.2,5.44,4.22,5.08c1.6,0.06,3.2,0.1,4.81,0.12L11.61,5.22z" fill="currentColor"></path>
+                                <path d="M15.94,124.29c-0.23-0.88-0.46-1.7-0.67-2.54c-0.51-2.02-1.01-4.03-1.51-6.05c-0.24-0.95-0.47-1.89-0.71-2.84 c-0.04-0.14-0.03-0.21,0.13-0.24c0.72-0.15,1.43-0.32,2.16-0.45c0.92-0.17,1.82-0.08,2.65,0.37c0.45,0.24,0.8,0.61,1.11,1.03 c0.57,0.77,0.85,1.65,1.06,2.57c0.06,0.25,0.13,0.5,0.18,0.75c0.01,0.05-0.04,0.15-0.08,0.16c-0.34,0.1-0.68,0.19-1.04,0.28 c-0.04-0.12-0.09-0.22-0.11-0.32c-0.06-0.49-0.28-0.91-0.57-1.3c-0.25-0.33-0.59-0.55-0.97-0.66c-0.74-0.22-1.49-0.21-2.23-0.01 c-0.09,0.02-0.19,0.03-0.28,0.04c-0.17,0.02-0.2,0.1-0.16,0.26c0.17,0.64,0.34,1.29,0.5,1.94c0.31,1.23,0.61,2.47,0.91,3.7 c0.28,1.12,0.57,2.24,0.86,3.35c0.12,0.47,0.25,0.94,0.34,1.42c0.14,0.72,0.18,1.45-0.07,2.15c-0.17,0.47-0.49,0.86-0.86,1.2 c-0.43,0.4-0.92,0.7-1.46,0.87c-0.65,0.21-1.34,0.38-2.03,0.18c-0.69-0.2-1.26-0.61-1.59-1.29c-0.28-0.58-0.44-1.19-0.37-1.83 c0.06-0.6,0.3-1.14,0.67-1.59c0.49-0.58,1.11-0.93,1.84-1.13c0.67-0.18,1.32-0.15,1.99-0.04C15.73,124.28,15.8,124.28,15.94,124.29z " fill="currentColor"></path>
+                                <path d="M61.42,88.84c0.05-0.3,0.09-0.56,0.14-0.82c0.15-0.91,0.31-1.82,0.47-2.74c0.27-1.6,0.55-3.2,0.83-4.8 c0.11-0.63,0.23-1.26,0.33-1.89c0.01-0.09,0.05-0.12,0.14-0.13c0.73-0.09,1.46-0.17,2.19-0.26c0.56-0.07,1.12-0.16,1.68-0.23 c0.49-0.06,0.98-0.1,1.47-0.16c1.09-0.13,2.18-0.27,3.27-0.41c0.05-0.01,0.1-0.01,0.18-0.01c-0.04,0.23-0.07,0.44-0.11,0.65 c-0.17,1.01-0.35,2.02-0.52,3.04c-0.34,1.96-0.67,3.91-1.01,5.87c-0.15,0.9-0.3,1.8-0.46,2.7c-0.08,0.42-0.21,0.82-0.41,1.2 c-0.21,0.39-0.52,0.68-0.9,0.9c-0.85,0.49-1.74,0.56-2.67,0.35c-0.59-0.13-1.1-0.4-1.47-0.87c-0.36-0.46-0.51-0.97-0.49-1.56 c0.03-0.66,0.24-1.24,0.69-1.7c0.34-0.35,0.74-0.62,1.23-0.74c0.28-0.07,0.56-0.14,0.85-0.12c0.69,0.03,1.36,0.15,1.94,0.56 c0.11,0.08,0.23,0.14,0.35,0.21c0.02,0.01,0.04,0.01,0.1,0.02c0.42-2.53,0.84-5.06,1.26-7.61c-0.12,0.01-0.24,0.02-0.36,0.03 c-0.49,0.06-0.98,0.13-1.46,0.19c-0.93,0.12-1.85,0.24-2.78,0.36c-0.63,0.08-1.26,0.16-1.89,0.23c-0.11,0.01-0.16,0.06-0.18,0.18 c-0.31,1.85-0.63,3.7-0.95,5.55c-0.16,0.91-0.31,1.81-0.48,2.72c-0.09,0.5-0.18,0.99-0.3,1.48c-0.13,0.5-0.37,0.96-0.73,1.32 c-0.43,0.43-0.99,0.64-1.58,0.75c-0.56,0.1-1.11,0.08-1.67-0.05c-0.7-0.16-1.25-0.52-1.62-1.15c-0.37-0.63-0.35-1.3-0.15-1.97 c0.08-0.26,0.17-0.52,0.32-0.74c0.5-0.69,1.17-1.09,2.04-1.15c0.92-0.07,1.76,0.18,2.51,0.73C61.25,88.76,61.31,88.78,61.42,88.84 z" fill="currentColor"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer', 'GTM-T7BJHBWS')
+                </script>
+                <next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;">
+                </p>
+            </next-route-announcer>
+                <div class="chakra-portal">
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-top" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto; top: env(safe-area-inset-top, 0px); right: env(safe-area-inset-right, 0px); left: env(safe-area-inset-left, 0px);"></ul>
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-top-left" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; top: env(safe-area-inset-top, 0px); left: env(safe-area-inset-left, 0px);"></ul>
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-top-right" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; top: env(safe-area-inset-top, 0px); right: env(safe-area-inset-right, 0px);"></ul>
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-bottom-left" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; bottom: env(safe-area-inset-bottom, 0px); left: env(safe-area-inset-left, 0px);"></ul>
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-bottom" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto; bottom: env(safe-area-inset-bottom, 0px); right: env(safe-area-inset-right, 0px); left: env(safe-area-inset-left, 0px);"></ul>
+                    <ul role="region" aria-live="polite" id="chakra-toast-manager-bottom-right" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; bottom: env(safe-area-inset-bottom, 0px); right: env(safe-area-inset-right, 0px);"></ul>
+                </div>
+                <iframe name="__uspapiLocator" tabindex="-1" role="presentation" aria-hidden="true" title="Blank" style="display: none; position: absolute; width: 1px; height: 1px; top: -9999px;"></iframe>
+                <iframe tabindex="-1" role="presentation" aria-hidden="true" title="Blank" style="position: absolute; width: 1px; height: 1px; top: -9999px;" src="https://consentcdn.cookiebot.com/sdk/bc-v4.min.html"></iframe>
+                <div>
+                    <div dir="ltr" id="CookiebotWidget" lang="en">
+                        <button class="CookiebotWidget-logo" aria-label="Open widget" lang="en">
+                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <g fill-rule="evenodd">
+                                    <circle cx="12" cy="12" r="12"></circle>
+                                    <path d="M15.094 13.978c-1.146 0-1.946-.813-1.946-1.978s.8-1.978 1.946-1.978c1.145 0 1.945.813 1.945 1.978s-.8 1.978-1.945 1.978M9.07 10.022h3.883l-.094.09c-.537.515-.844 1.203-.844 1.888 0 1.738 1.294 3 3.079 3 1.786 0 3.082-1.262 3.082-3s-1.296-3-3.082-3H9.079C7.295 9 6 10.262 6 12s1.295 3 3.079 3h2.144v-1.022H9.07c-1.136 0-1.932-.813-1.937-1.978 0-1.146.815-1.978 1.937-1.978" fill="#000">
+
+                                    </path>
+                                </g>
+                            </svg>
+                        </button>
+                        <div id="CookiebotWidget-widgetContent"></div>
+                    </div>
+                    <div id="CookiebotWidgetUnderlay"></div>
+                </div>
+                <style id="CookiebotWidgetStylesheet">
+                @keyframes
+                CookiebotWidgetFadeIn{0%{opacity:0}to{opacity:1}}
+                #CookiebotWidget{
+                    word-wrap:break-word;
+                    left:10px;bottom:10px;
+                    animation:CookiebotWidgetFadeIn .3s ease-in;
+                    background-color:#141414;border-radius:40px;
+                    box-shadow:0 4px 16px rgba(0,0,0,.15);
+                    font-family:Helvetica,Arial,sans-serif;
+                    line-height:1.5;min-height:48px;
+                    min-width:48px;
+                    opacity:0;pointer-events:none;position:fixed;
+                    transition:all .2s ease-in;
+                    word-break:break-word;
+                    z-index:2147483631
+                }
+                #CookiebotWidget,#CookiebotWidget *{
+                    box-sizing:border-box;
+                    background:transparent;
+                    color:#FFFFFF;
+                    font-size:15px;
+                    letter-spacing:.1px;
+                    margin:0;outline:0;
+                    padding:0
+                }
+                #CookiebotWidget *{font-family:inherit}
+                #CookiebotWidget button,#CookiebotWidget li,#CookiebotWidget strong,#CookiebotWidget svg,#CookiebotWidget ul{
+                    border:none;
+                    cursor:inherit;
+                    font-weight:inherit;
+                    line-height:1.5
+                }
+                #CookiebotWidget:not(.CookiebotWidget-inactive){
+                    opacity:1;pointer-events:all;
+                    transition:opacity .3s ease-in,border-radius .2s ease-in
+                }
+                #CookiebotWidget.CookiebotWidget-open{overflow:hidden}
+                #CookiebotWidget:not(.CookiebotWidget-open):hover{box-shadow:0 4px 18px rgba(0,0,0,.3)}
+                #CookiebotWidget+#CookiebotWidgetUnderlay{
+                    background:#000;
+                    height:100vh;
+                    left:0;
+                    opacity:0;pointer-events:none;
+                    position:fixed;
+                    top:0;visibility:hidden;
+                    width:100vw;
+                    z-index:2147483630
+                }
+                #CookiebotWidget:not(.CookiebotWidget-open) .CookiebotWidget-logo{cursor:pointer}
+                #CookiebotWidget .CookiebotWidget-logo{
+                    display:block;
+                    transition:opacity .3s,transform .3s
+                }
+                #CookiebotWidget .CookiebotWidget-logo svg{
+                    display:block;
+                    height:44px;
+                    transition:all .3s;width:44px
+                }
+                #CookiebotWidget:not(.CookiebotWidget-open) button.CookiebotWidget-logo svg{
+                    height:48px;
+                    transition:all 0s ease;
+                    transition-delay:.2s;
+                    width:48px
+                }
+                #CookiebotWidget .CookiebotWidget-logo svg circle{fill:#141414}
+                #CookiebotWidget .CookiebotWidget-logo svg path{fill:#FFFFFF}
+                #CookiebotWidget #CookiebotWidget-widgetContent{
+                    display:flex;
+                    max-height:0;
+                    max-width:0;
+                    overflow:hidden;
+                    transition:all .2s ease-in
+                }
+                #CookiebotWidget.CookiebotWidget-open #CookiebotWidget-widgetContent{max-height:1000px;max-width:1000px}
+                #CookiebotWidget.CookiebotWidget-open .CookiebotWidget-contents{max-height:calc(100vh - 10px);min-height:360px}
+                #CookiebotWidget :focus-visible,#CookiebotWidget:not(.CookiebotWidget-open) .Cookiebotwidget-logo{
+                    outline:2px solid #1032CF;
+                    outline-offset:1px
+                }
+                @media screen and (max-width:600px){
+                #CookiebotWidget:not(.CookiebotWidget-inactive){bottom:10px;left:10px}
+                #CookiebotWidget :focus-visible,#CookiebotWidget:not(.CookiebotWidget-open) .Cookiebotwidget-logo{outline:0}
+                }
+                @media screen and (min-width:601px){#CookiebotWidget+#CookiebotWidgetUnderlay{display:none}}
+                </style>
+    
+    
+ </html>
